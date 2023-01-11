@@ -1,0 +1,17 @@
+*{
+text-align: center;
+}
+
+.row{
+  display: flex;
+  flex-wrap: wrap;
+margin-top: 20px;
+}
+nav{
+  background-color: #516d9e;
+}
+
+#footer {
+  font-size: 14px;
+  background: #496697;
+}
